@@ -1,0 +1,7 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µΑλκ
+{	java:S116"aRename this field "fuelConsumptionKg_Hour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(οψ¤”ύÿÿÿÿ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(µΑλκ
+V	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(µΑλκ
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Αέ‹ψÿÿÿÿ

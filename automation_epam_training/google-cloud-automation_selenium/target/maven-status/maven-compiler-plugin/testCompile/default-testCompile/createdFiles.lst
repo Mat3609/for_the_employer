@@ -1,0 +1,15 @@
+page\google\GoogleCloudEstimate.class
+util\RegexHelper.class
+waits\Wait$1.class
+waits\Wait.class
+page\google\GoogleCloudHomePage.class
+test\CommonConditions.class
+util\TabsHelper.class
+test\GoogleCloudSearchResultsTest.class
+util\TestListener.class
+test\GoogleCloudCostTest.class
+driver\DriverSingleton.class
+page\google\GoogleCloudPage.class
+page\email\EmailHomePage.class
+page\AbstractPage.class
+page\google\SearchingResultsPage.class

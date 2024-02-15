@@ -1,0 +1,5 @@
+
+t
+java:S6204"^Replace this usage of 'Stream.collect(Collectors.toUnmodifiableList())' with 'Stream.toList()'(…ù©˜
+t
+java:S6204"^Replace this usage of 'Stream.collect(Collectors.toUnmodifiableList())' with 'Stream.toList()'(œ–ø¾

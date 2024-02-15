@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+W
+'src/test/java/ui/page/AbstractPage.java,8\f\8f2ff1bdad94e2e5967093ec605926d4dfc944ee
+^
+.src/test/java/ui/page/GoogleCloudHomePage.java,f\6\f684a1d38afceffa2f8080cf27da3975f3f45ed7
+_
+/src/test/java/ui/page/SearchingResultsPage.java,b\7\b76e0794a7627b7472afffdfa2f2082484964a39
+f
+6src/test/java/ui/page/CalculatorComputeEnginePage.java,4\e\4e175056d80d713f355cdb89dc4e44f9348eea93
+g
+7src/test/java/ui/test/GoogleCloudSearchResultsTest.java,0\6\06b934c3b803365fb39ec0d7d80a6b230c2edcc3
+_
+/src/test/java/ui/test/SetConfigurationTest.java,1\5\15ff77d13899694397afeacbe786929968907a7b
+[
++src/test/java/ui/page/DetailedViewPage.java,e\3\e328d40f5395df333caca9ad4eb7454ad70a4c00
+S
+#src/test/java/ui/test/BaseTest.java,8\0\809f30fc131d90b61f2e19494bd8d9780980693c
+W
+'src/test/java/ui/util/TestListener.java,f\5\f5f68fe8401bed394aff96b5590528b8ee92086e

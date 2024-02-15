@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+b
+2src/test/java/page/google/GoogleCloudEstimate.java,e\b\eb07e1ebf43c77f8aad33dfeb5e1162bd763dae2
+b
+2src/test/java/page/google/GoogleCloudHomePage.java,1\f\1f14af7dd8529d083bdf2fb2fec26dfeca7c2fde
+^
+.src/test/java/page/google/GoogleCloudPage.java,5\e\5e0c89ef1bd536ee19be0fe6fd30f1f93871ecb5
+c
+3src/test/java/page/google/SearchingResultsPage.java,8\7\87af9f23be3a595bffd4956b810612bed6bf895c
+X
+(src/test/java/test/CommonConditions.java,8\6\86678cbd051fa1f60698a52c1ec1c2a8e1ac945a
+[
++src/test/java/test/GoogleCloudCostTest.java,7\7\777f68fc7a85612132e6acc09a5bd51c16a395a1
+d
+4src/test/java/test/GoogleCloudSearchResultsTest.java,5\4\54f7d3024c60921cdeccc8cf1348782e29d98dde
+Y
+)src/test/java/driver/DriverSingleton.java,c\7\c71de7bf679622d6553077b06b0799dcac8fcb57

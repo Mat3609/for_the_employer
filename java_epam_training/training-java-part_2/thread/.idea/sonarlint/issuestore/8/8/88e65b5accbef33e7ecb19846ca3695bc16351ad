@@ -1,0 +1,11 @@
+
+d
+java:S2259&"BA "NullPointerException" could be thrown; "ship" is nullable here.(¥ÇÖýüÿÿÿÿ8§œ“»Ø0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à×ô­ûÿÿÿÿ
+{
+java:S2142""^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8©œ“»Ø0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¥ÇÖýüÿÿÿÿ8©œ“»Ø0
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ªœ“»Ø0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ø‡£”ýÿÿÿÿ8ªœ“»Ø0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8«œ“»Ø0

@@ -1,0 +1,25 @@
+
+M	java:S106	"9Replace this use of System.out or System.err by a logger.(ö¿«q
+S	java:S106"9Replace this use of System.out or System.err by a logger.(è†Œÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛµÁ¾
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(¥ÁĞ×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉŒÎêøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô„àÏøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ŸÓÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ©öÍ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ï´Ššøÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(§ĞÃß
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(’Æâ’úÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(®¾Ó°ÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ªâÚüÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(²¦áú
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(–»ç=
+S	java:S106="9Replace this use of System.out or System.err by a logger.(´“¼Ûùÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¦ò¥ëùÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Š“ïÚ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(±®œªúÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(…úç…
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ù£ãúÿÿÿÿ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(çİ€€

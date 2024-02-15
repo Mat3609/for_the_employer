@@ -1,0 +1,22 @@
+
+k
+java:S3008	"PRename this field "BOXES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÎ±ûÿÿÿÿ
+x
+java:S3008
+"]Rename this field "NOT_UNLOADED_SHIPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¸ä«ÿÿÿÿÿ
+o
+java:S3008"YRename this field "UNLOADED_SHIPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÍŞ
+n
+java:S3008"XRename this field "LOADING_SHIPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¼˜
+=
+java:S3010""Remove this assignment of "BOXES".(ÊŞµ³üÿÿÿÿ
+J
+java:S3010"/Remove this assignment of "NOT_UNLOADED_SHIPS".(¶™«úÿÿÿÿ
+A
+java:S3010"+Remove this assignment of "UNLOADED_SHIPS".(Åµ
+L
+java:S3010"*Remove this assignment of "LOADING_SHIPS".(’Æ’³úÿÿÿÿ8ñÉ»Ø0
+P
+java:S2209"5Change this instance-reference to a static reference.(ÊŞµ³üÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(¶™«úÿÿÿÿ

@@ -1,0 +1,10 @@
+
+2
+java:S1643"Use a StringBuilder instead.(–Ù‡·
+1
+java:S1643"Use a StringBuilder instead.(êÚ¯
+Z
+java:S2147"DCombine this catch with the one at line 20, which has the same body.(ï­£Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(èé¸ùÿÿÿÿ8‹é¡ÜÓ0

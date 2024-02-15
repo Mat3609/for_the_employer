@@ -1,0 +1,20 @@
+
+>
+java:S1604Z"(Make this anonymous inner class a lambda(æ¨Îš
+>
+java:S1604c"(Make this anonymous inner class a lambda(æ¨Îš
+>
+java:S1604l"(Make this anonymous inner class a lambda(æ¨Îš
+s
+java:S6201"VReplace this instanceof check and cast with 'instanceof PassengerPlane passengerplane'(££÷¢8”¨ÔÑä0
+v
+java:S6201'"TReplace this instanceof check and cast with 'instanceof MilitaryPlane militaryplane'(ÑÁ›§ÿÿÿÿÿ8•¨ÔÑä0
+~
+java:S6201R"\Replace this instanceof check and cast with 'instanceof ExperimentalPlane experimentalplane'(ôæöŒûÿÿÿÿ8˜¨ÔÑä0
+C
+java:S1452t"&Remove usage of generic wildcard type.(ª©Êú8š¨ÔÑä0
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(üÙÆÒ
+„
+java:S1128"bRemove this unused import 'com.epam.training.student_matsvei_shablouski.clean_code.Runner.planes'.(ÎÃõ¡øÿÿÿÿ8œ¨ÔÑä0
+K
+java:S1144x"0Remove this unused private "printPlanes" method.(Ž°µ™úÿÿÿÿ

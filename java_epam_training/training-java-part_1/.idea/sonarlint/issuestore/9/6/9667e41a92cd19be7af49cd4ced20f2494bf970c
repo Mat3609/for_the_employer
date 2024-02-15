@@ -1,0 +1,10 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(µ»¡«
+7
+java:S1643"Use a StringBuilder instead.(ÖôßÃúÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ
+G
+java:S1481"1Remove this unused "reversNumber" local variable.(è© ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ»¡«

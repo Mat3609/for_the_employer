@@ -1,0 +1,34 @@
+;ksat_lanoitpo egakcap
+
+;*.oi.avaj tropmi
+
+
+{ 2ksaT ssalc cilbup
+{ )sgra ][gnirtS(niam diov citats cilbup    
+;)"avaj.tseT2ksaTlanoitpO/avaj/niam/crs"(eliF wen = elif eliF        
+;)"avaj.tseT2ksaTlanoitpO/avaj/niam/crs"(eliF wen = 1elif eliF        
+
+;"" = atad gnirtS        
+{)))elif(redaeReliF wen(redaeRdereffuB wen = redaeRdereffub redaeRdereffuB( yrt        
+;rts gnirtS            
+
+{ )llun =! ))(eniLdaer.redaeRdereffub = rts(( elihw            
+;rts =+ atad                
+;"n\" =+ atad                
+}            
+;)atad(nltnirp.tuo.metsyS            
+{ )e noitpecxEdnuoFtoNeliF( hctac }        
+;)(ecarTkcatStnirp.e            
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+
+;)"etavirp" ,"cilbup"(llAecalper.atad = atad        
+
+{)))1elif(retirWeliF wen(retirWdereffuB wen = retirWdereffub retirWdereffuB( yrt        
+;)atad(etirw.retirWdereffub            
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+}    
+}

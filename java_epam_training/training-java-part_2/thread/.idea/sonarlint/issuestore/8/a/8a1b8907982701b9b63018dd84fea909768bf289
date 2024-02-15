@@ -1,0 +1,15 @@
+
+[
+java:S2259"FA "NullPointerException" could be thrown; "airplane" is nullable here.(Â¦ÔP
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Â¦ÔP
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûù†¥ùÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106""9Replace this use of System.out or System.err by a logger.(×íªÆøÿÿÿÿ
+t
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Áç½íùÿÿÿÿ
