@@ -12,7 +12,6 @@ import waits.Wait;
 import java.util.List;
 
 public class SearchingResultsPage extends AbstractPage {
-    private final Logger logger = LogManager.getRootLogger();
     @FindBy(xpath = "//div[@class='gsc-thumbnail-inside']//b[text()='Google Cloud Pricing Calculator']")
     WebElement titlePage;
 

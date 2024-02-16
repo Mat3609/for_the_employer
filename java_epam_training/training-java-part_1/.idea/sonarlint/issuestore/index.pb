@@ -1,8 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-†
-psrc/main/java/com/epam/training/student_matsvei_shablouski/colections/main_task/airport_app/airport/Airport.java,e\5\e5c7cd4fecdce0b4e0020ea6ce17baca50d81322
 Å
 Qsrc/main/java/com/epam/training/student_matsvei_shablouski/clean_code/Runner.java,f\c\fcdfe57b8aac19b234b720951bb0eaa808bfa3d8
 í
@@ -15,8 +13,6 @@ msrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/tr
 lsrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/train_schedule/train/Train.java,2\d\2d5f79bfe1962b13d2b8c30d193bf4aa30a1a8d5
 ¨
 |src/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/train_schedule/use_train_sorting/SortTrain.java,f\8\f81e61c8e90618e623d046b3f2fa1c470d338bd9
-£
-ssrc/main/java/com/epam/training/student_matsvei_shablouski/colections/main_task/airport_app/airplanes/Airplane.java,a\2\a276f4998656b8b858b592a62efd46a24063b6a3
 ó
 gsrc/main/java/com/epam/training/student_matsvei_shablouski/fundamentals/optional_task/OptionalTask.java,3\3\335d8b303fe2c4d093e70265475470c23a95b63f
 è
@@ -55,14 +51,6 @@ dsrc/main/java/com/epam/training/student_matsvei_shablouski/exceptions/universit
 }src/main/java/com/epam/training/student_matsvei_shablouski/exceptions/university/exceptions/IncorrectGradeRangeException.java,e\6\e6ad11b09a31031bee45a717a2200bd726da30b5
 ä
 Zsrc/main/java/com/epam/training/student_matsvei_shablouski/exceptions/university/Main.java,d\d\dd1f23881aa0c50dde0a078271e0dc3b73fbb01d
-ú
-lsrc/main/java/com/epam/training/student_matsvei_shablouski/colections/main_task/airport_app/DemoAirport.java,5\9\59380c0f33f97a25d44b00be405eee3c5e4abea6
-é
-^src/main/java/com/epam/training/student_matsvei_shablouski/colections/optional_task/Task1.java,c\2\c2a544f93e0a0f031aaa9f5d41d31e33ef6b5718
-é
-^src/main/java/com/epam/training/student_matsvei_shablouski/colections/optional_task/Task2.java,9\6\9667e41a92cd19be7af49cd4ced20f2494bf970c
-ê
-`src/main/java/com/epam/training/student_matsvei_shablouski/colections/optional_task/Task4_6.java,1\2\12f40201f107479a983bb93d7d0366a0dff31faa
 ñ
 fsrc/main/java/com/epam/training/student_matsvei_shablouski/clean_code/classification/MilitaryType.java,8\6\864b8d2a13eefc720751412d4823896871f7eaf5
 ù
@@ -109,9 +97,11 @@ isrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/st
 esrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/train_schedule/Main.java,2\f\2fda0847723502967e61dea9060cc734d9aaca51
 Ü
 Vsrc/test/java/com/epam/training/student_matsvei_shablouski/clean_code/AirportTest.java,2\c\2c73bdf793a2cdba24b070c7573aae1e6e52d86f
-â
-Ysrc/test/java/com/epam/training/student_matsvei_shablouski/colections/AirCompanyTest.java,9\6\967cf3cf3d845fae3bbcf0911c636cbefa304def
 Ü
 Vsrc/test/java/com/epam/training/student_matsvei_shablouski/exceptions/StudentTest.java,2\1\21bbc901f05f87186f24dc4c631ea0c34e9039c2
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+ò
+hsrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/car_market/konst/Brand.java,7\8\7860d6e65a7d88581f5254eb381dd4c5632d5487
+ñ
+fsrc/main/java/com/epam/training/student_matsvei_shablouski/classes/main_task/student_sort/Faculty.java,d\d\dd23678a06c9fab1ed0e77dea905358f1dd07f64

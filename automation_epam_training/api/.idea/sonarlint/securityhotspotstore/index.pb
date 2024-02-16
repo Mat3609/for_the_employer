@@ -1,20 +1,6 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-Q
-!src/test/java/api/ReqresTest.java,0\5\0542c1f49fef5e830530ed399f18923b3ab8bbdb
-Y
-)src/test/java/api/spec/Specification.java,0\d\0dd15db0d27e141418c8dd1448bbd1d3d075e573
-`
-0src/test/java/api/registration/Registration.java,8\1\811dfa9a63df0bca062d6018b93399f81a7a5265
-`
-0src/test/java/api/registration/UnsuccessReg.java,3\5\355e7f08ba02f0a7ee0f847fe55782c7527c17ab
-Y
-)src/test/java/api/user_data/UserData.java,c\a\ca793260e927386587ea6c72c8f3b9f8430a467d
-X
-(src/test/java/api/colors/ColorsData.java,c\5\c5c4d8008fbbd35e6de67e768bd70a54fa1ec095
-a
-1src/test/java/api/user_data/ReqresNoPojoTest.java,8\5\852aca98b09f4e78ee68567365da30cf980ae904
 I
 src/test/java/binance_api,e\2\e26647784a01d1891513b22ec48ee24ac1e8a692
 _
@@ -30,5 +16,11 @@ d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-^
-.src/test/java/api/registration/SuccessReg.java,2\8\28728438479809b00d40f74fa480071c630febec
+c
+3src/test/java/reqres_api/test/ReqresNoPojoTest.java,9\5\953fce0c54b5840f64f3bb6e1a34634ebf9a75c4
+]
+-src/test/java/reqres_api/test/ReqresTest.java,a\6\a6682b8314a8864557bb47e68c311ac9eddebbe3
+i
+9src/test/java/reqres_api/specification/Specification.java,3\4\34cd6c3517d658b12cb6cb6ee048c8a65a1c0ef0
+[
++src/test/java/reqres_api/pojo/UserData.java,9\1\919970939799ad874c63884238d91a6bd0856463

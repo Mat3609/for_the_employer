@@ -36,10 +36,8 @@ public class Main {
         carMarket.addCar (car12);
 
 
-        carMarket.getListCarsOfThisBrand(Brand.AUDI).stream().forEach(car -> System.out.println(car.toString()));
-        System.out.println();
-        carMarket.getListCarsOfThisBrandWhichUsesMoreThanNYears(Brand.BMW, 2).stream ().forEach (car -> System.out.println (car.toString ()));
-        System.out.println();
-        carMarket.grtListCarsOfThisYearsPriseMoreThanGiven(1998, 1700).stream().forEach(car -> System.out.println(car.toString()));
+        carMarket.getListCarsOfThisBrand(Brand.AUDI).forEach(car -> System.out.println(car.toString()));
+        carMarket.getListCarsOfThisBrandWhichUsesMoreThanNYears(Brand.BMW, 2).forEach (car -> System.out.println (car.toString ()));
+        carMarket.grtListCarsOfThisYearsPriseMoreThanGiven(1998, 1700).forEach(car -> System.out.println(car.toString()));
     }
 }

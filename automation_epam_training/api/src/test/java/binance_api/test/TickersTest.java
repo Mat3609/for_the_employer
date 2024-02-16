@@ -7,7 +7,6 @@ import binance_api.util.TickerComparator;
 import io.restassured.http.ContentType;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -35,7 +34,6 @@ public class TickersTest {
         List<TickerData> usdTickers = getAllTickers().stream().filter(x -> x.getSymbol().endsWith("USDT"))
                 .collect(Collectors.toList());
         Assert.assertTrue(usdTickers.stream().allMatch(x -> x.getSymbol().endsWith("USDT")));
-        int i = 0;
     }
 
     @Test
@@ -48,7 +46,6 @@ public class TickersTest {
         }).collect(Collectors.toList());
         List<TickerData> top10 = highToLow.stream().limit(10).collect(Collectors.toList());
         Assert.assertTrue(top10.get(0).getSymbol().equals("REQ-USDT"));
-        int i = 0;
     }
 
     @Test
@@ -60,14 +57,12 @@ public class TickersTest {
                 .collect(Collectors.toList());
 
         List<String> map = getAllTickers().stream().map(x -> x.getSymbol().toLowerCase()).collect(Collectors.toList());
-        int i = 0;
     }
 
     @Test
     public void getNameAndPrice() {
         List<TickersShort> tickersShorts = new ArrayList<>();
         getAllTickers().forEach(x -> tickersShorts.add(new TickersShort(x.getSymbolName(), x.getAveragePrice())));
-        int i = 0;
     }
 
 

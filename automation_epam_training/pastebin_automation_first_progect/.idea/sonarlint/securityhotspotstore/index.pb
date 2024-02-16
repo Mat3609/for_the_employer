@@ -11,3 +11,5 @@ d
 4i_can_win/src/main/java/test/CreateNewPasteTest.java,2\6\26ce036a3abf659bc5da4d464ce3401fb652a7b0
 b
 2i_can_win/src/main/java/test/CommonConditions.java,0\3\0394e9dc29e7f49868d67898fc2b6b45315527a4
+a
+1i_can_win/src/main/java/service/PasteCreator.java,a\a\aa2e21f9c00d3afec7738f66c46408c3539364a3

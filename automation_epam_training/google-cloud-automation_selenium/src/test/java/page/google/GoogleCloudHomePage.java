@@ -1,7 +1,5 @@
 package page.google;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -10,7 +8,7 @@ import page.AbstractPage;
 
 public class GoogleCloudHomePage extends AbstractPage {
     private final String URL = "https://cloud.google.com/";
-    private final Logger logger = LogManager.getRootLogger();
+
 
 
 
@@ -25,7 +23,6 @@ public class GoogleCloudHomePage extends AbstractPage {
 
     public GoogleCloudHomePage openPage() {
         driver.get(URL);
-        logger.info("Page is open!");
         return this;
     }
 

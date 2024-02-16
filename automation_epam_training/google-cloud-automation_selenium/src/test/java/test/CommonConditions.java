@@ -17,7 +17,6 @@ public class CommonConditions {
     @BeforeTest(alwaysRun = true)
     public void createDriver() {
         driver = DriverSingleton.getDriver();
-        driver.manage().timeouts().pageLoadTimeout(Wait.SHORT_TIME_OUT);
     }
 
     @AfterTest(alwaysRun = true)

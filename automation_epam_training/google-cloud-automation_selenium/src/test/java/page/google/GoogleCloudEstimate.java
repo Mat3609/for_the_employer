@@ -14,7 +14,6 @@ import waits.Wait;
 
 
 public class GoogleCloudEstimate extends AbstractPage {
-    private final Logger logger = LogManager.getRootLogger();
 
     @FindBy(xpath = "//div[contains(text(),'Provisioning model: Regular')]")
     private WebElement provisioningModelRegular;

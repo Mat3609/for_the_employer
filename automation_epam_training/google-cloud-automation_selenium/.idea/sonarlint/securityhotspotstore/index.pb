@@ -17,3 +17,15 @@ d
 4src/test/java/test/GoogleCloudSearchResultsTest.java,5\4\54f7d3024c60921cdeccc8cf1348782e29d98dde
 Y
 )src/test/java/driver/DriverSingleton.java,c\7\c71de7bf679622d6553077b06b0799dcac8fcb57
+T
+$src/test/java/page/AbstractPage.java,0\e\0eeaf17be1d6682ecd41b7fd081f6b5926dc0f91
+S
+#src/test/java/util/RegexHelper.java,e\1\e12cba07f8a0bf56642ffa1df096c68d0fea5799
+[
++src/test/java/page/email/EmailHomePage.java,5\b\5b98258c710c02ac0e0717b6230ef30f6a227286
+R
+"src/test/java/util/TabsHelper.java,b\3\b349fa850bc4047ac77d077297d670f4b37b2720
+T
+$src/test/java/util/TestListener.java,b\c\bc382644a9141e443d1af77b45504794461cdc10
+M
+src/test/java/waits/Wait.java,2\0\205285f77c5fa906bb8773b078d74bbd7f2a9598

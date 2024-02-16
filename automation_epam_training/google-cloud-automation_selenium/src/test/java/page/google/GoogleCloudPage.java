@@ -10,7 +10,6 @@ import waits.Wait;
 
 
 public class GoogleCloudPage extends AbstractPage {
-    private final Logger logger = LogManager.getRootLogger();
     private static final String GOOGLE_CLOUD_URL = "https://cloud.google.com/products/calculator";
     public static String handleCloud;
 
